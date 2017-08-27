@@ -2,7 +2,6 @@
 
 """FTL data file interface."""
 
-from __future__ import print_function
 import struct
 import os
 import glob
